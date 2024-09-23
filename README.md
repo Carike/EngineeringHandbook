@@ -13,5 +13,6 @@ So in stead of creating a wiki like most of us use at work, I wanted to test out
 ## Architecture
 
 So to keep things simple, the handbook consists of the following:
+* [GitHub Actions](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-with-a-custom-github-actions-workflow) deploying the site
 * [GitHub Pages](https://pages.github.com/) to host the site
 * [Docsify](https://docsify.js.org/) to generate the site from Markdown
