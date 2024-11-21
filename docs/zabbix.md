@@ -28,3 +28,20 @@ When Zabbix becomes unavailable, it’s important to follow a few key steps to t
 1. **Evaluate dependencies.** Make sure all Zabbix dependencies are installed and working correctly. This includes libraries, services, and any other software required for Zabbix to function.
 
 If the problem persists after carrying out these steps, it may be necessary to refer to the official Zabbix documentation, seek help from the official Zabbix forum, or contact the Zabbix technical support team, depending on the severity and urgency of the situation.
+
+## Add user to user group directly in database
+
+If you are unable to add user on UI you can do so directly in the MySQL database.
+
+1. Get user ID
+    ```SQL
+    SELECT * FROM users LIMIT 1000;
+    ```
+1. Get user group ID - browse to User Group and check in URL 
+1. Get user groups
+1. Change `id` column to decending order and get highest number. Use that in `insert` statement
+1. Create & run `insert` statement
+    ```SQL
+    INSERT INTO users_groups
+    VALUES (new id, usrgrpid, userid);
+    ```
