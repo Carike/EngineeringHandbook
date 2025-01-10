@@ -2,7 +2,7 @@
 
 # Engineering Handbook
 
-> Document learnings and tutorials I would like to reference in the future
+> Document learnings and tutorials for future reference
 
 [LinkedIn](https://linkedin.com/in/carike)
-[Get Started](#engineeringhandbook)
+[Get Started](#About)
