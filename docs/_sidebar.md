@@ -1,9 +1,9 @@
-* [Home](/)
+- [Home](/)
 
 - Cloud Providers
 
   - [Azure](azure.md)
-    - [Azure Kubernetes](azurekubernetesservice.md)
+  - [Azure Kubernetes](azurekubernetesservice.md)
 
 - Miscellaneous
 
