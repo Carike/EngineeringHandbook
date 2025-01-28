@@ -9,6 +9,7 @@
 
   - [Certificate management](certificatemangement.md "Certificate Management")
   - [CyberSecurity](cybersecurity.md)
+  - [Distributed Systems](distributedsystems.md)
 
 - Operating Systems
 
