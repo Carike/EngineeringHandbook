@@ -27,6 +27,10 @@ Git for Windows. Download the installer from https://git-scm.com/download/win.
 
 ## Learn more
 
-1. Git Book free
-1. GitHub Foundations certification
-1. Microsoft Learn
+1. [Pro Git](https://git-scm.com/book/en/v2) free book
+1. [GitHub Foundations certification](https://learn.microsoft.com/en-za/training/paths/github-foundations/)
+1. [Introduction to Git](https://learn.microsoft.com/en-za/training/modules/intro-to-git/) on Microsoft Learn
+
+## Links
+
+- [Git and GitHub essentials for Microsoft Learn documentation](https://learn.microsoft.com/en-us/contribute/content/git-github-fundamentals)
