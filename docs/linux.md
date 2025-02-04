@@ -76,3 +76,6 @@ Useful links:
 ## Tips and tricks
 
 1. [How To Use Linux Screen](https://linuxize.com/post/how-to-use-linux-screen/)
+1. Uncomplicated Firewall (UFW)
+   1. [How to Set Up a Firewall with UFW on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-ubuntu)
+   1. [UFW Essentials: Common Firewall Rules and Commands](https://www.digitalocean.com/community/tutorials/ufw-essentials-common-firewall-rules-and-commands)
