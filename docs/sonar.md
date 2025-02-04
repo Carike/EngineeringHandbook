@@ -26,9 +26,16 @@ For documentation for the various IDE's visit:
 1. Install the relevant plugin for the IDE you use. For example I will use VS Code
 1. Configure [Connected mode](https://docs.sonarsource.com/sonarqube-for-ide/vs-code/team-features/connected-mode/)
   1. Info then is: 
-    1. SonarQube server: https://sonarqube.outsurance.co.za/, 
+    1. SonarQube server: [Your URL], 
     1. Username/Token: [Generate [user token](https://docs.sonarqube.org/latest/user-guide/user-token/) and paste token value], 
     1. Password: [Leave blank]
+
+For Visual Studio:
+1. Within “Team Explorer“ click on SonarQube. 
+1. Info on the popup is:
+  1. SonarQube server: [Your URL],
+  1. Username/Token: [Generate token and paste token value],
+  1. Password: [Leave blank]
 
 
 ## Sonar
