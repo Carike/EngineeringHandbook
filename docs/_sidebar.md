@@ -14,6 +14,7 @@
 - Operating Systems
 
   - [Linux](linux.md)
+    - [Lens IDE](lens.md)
   - [Windows Subsystem for Linux](windowssubsystemforlinux.md)
 
 - Technologies
