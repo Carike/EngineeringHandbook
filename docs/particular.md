@@ -31,6 +31,7 @@
   - The migration process leans heavily on the same procedures previously used for migrating from RavenDB 3.5 to RavenDB 5. This process been generalized in Replacing Error instances and Replacing Audit instances
   - The configuration pages for Error, Audit, and Monitoring instances have been updated so it’s clearer how to set the value whether you’re using an App config key, Environmnent variable, or ServiceControl Management field.
   - The ServiceControl Transports 1 page has been updated to document the transport types that were previously only available in the ServiceControl Management dropdown or via a PowerShell cmdlet.
+  - https://discuss.particular.net/t/servicecontrol-on-linux-containers-early-access-questions/4000/42
 
 ## Upgrading ServiceControl and ServicePulse
 
@@ -43,3 +44,4 @@
   - https://docs.particular.net/servicecontrol/securing-servicecontrol 
   - https://docs.particular.net/servicepulse/install-servicepulse-in-iis#advanced-configuration-role-based-security 
   - https://fafach.wordpress.com/2014/10/24/securing-servicepulse/ 
+- https://docs.particular.net/servicecontrol/troubleshooting
