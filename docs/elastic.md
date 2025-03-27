@@ -6,6 +6,7 @@ Learning more about Elastic and the Elastic Stack.
 
 - Cluster listing
   - Log stash must not be upgradred due to a depency on Twitter Package
+- Cluster configuration to be documented
 - JVM heap - ideally want 20%, if more than 70% result in trouble
 - ElasticSearch nodes
   - Azure nodes ingesting and collect to be sent to on-prem
