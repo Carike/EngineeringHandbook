@@ -7,3 +7,8 @@
 - Awesome Azure Naming Tool 
 
 ## Tagging
+
+
+## Links
+
+* [Products](https://azure.microsoft.com/en-us/products/)

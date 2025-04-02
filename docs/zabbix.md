@@ -45,3 +45,11 @@ If you are unable to add user on UI you can do so directly in the MySQL database
     INSERT INTO users_groups
     VALUES (new id, usrgrpid, userid);
     ```
+
+## Escalations
+
+- https://www.youtube.com/watch?v=7pBZj21N5Lo
+- [Delayed notifications](https://www.zabbix.com/documentation/1.8/en/manual/escalations_and_repeated_notifications/delayed_notifications)
+  - [Escalations](https://www.zabbix.com/documentation/current/en/manual/config/notifications/action/escalations) 
+- [Operations](https://www.zabbix.com/documentation/current/en/manual/config/notifications/action/operation#configuring-an-operation)
+- [Action/Escalations Configuration](https://www.zabbix.com/forum/zabbix-help/49535-action-escalations-configuration)

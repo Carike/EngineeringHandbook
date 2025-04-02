@@ -43,3 +43,10 @@ You will need to replace <tenant-id>, <client-id>, <your-app-url>, <state>, <you
 Deploy your application and ingress resource to your Kubernetes cluster. Once deployed, you should be able to browse to your hostname and be redirected to the Microsoft login page. After authentication, you should be redirected back to your application.
 Note that this is a general overview of the steps involved in adding Azure AD authentication to your application using Nginx ingress controller. The exact steps may vary depending on your specific application and environment.
 
+## Add-ons
+
+* https://opencost.io/
+  * https://opencost.io/docs/installation/ui/
+* Trivy
+  * [Getting started](https://trivy.dev/latest/getting-started/)
+  * [Demo](https://github.com/itaysk/trivy-demo)

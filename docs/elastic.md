@@ -30,3 +30,10 @@ Learning more about Elastic and the Elastic Stack.
   - temp level & 
   - keep time prior to deletion
     
+## Learning Elastic
+
+* https://www.elastic.co/docs
+* https://www.elastic.co/getting-started/elasticsearch-relevance-engine-quick-start
+* [Continuous Integration and Continuous Delivery (CI/CD) monitoring](https://www.elastic.co/guide/en/observability/current/ci-cd-observability.html)
+* [Elastic Cloud Provider](https://registry.terraform.io/providers/elastic/ec/latest/docs) on Terraform Registry
+* [Demo](https://demo.elastic.co/)
