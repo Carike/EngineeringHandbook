@@ -50,3 +50,7 @@ Note that this is a general overview of the steps involved in adding Azure AD au
 * Trivy
   * [Getting started](https://trivy.dev/latest/getting-started/)
   * [Demo](https://github.com/itaysk/trivy-demo)
+
+## Monitoring
+
+* [Intro to Kubernetes monitoring in Grafana Cloud](https://grafana.com/go/webinar/kubernetes-monitoring-with-grafana-cloud-emea/?src=email&cnt=webinar-invite&camp=kubernetes-monitoring-with-grafana-cloud-final-invite&mkt_tok=MzU2LVlGRy0zODkAAAGZZiP0DHkGW9obtHgCmUIkYsmfHEqwef-tHZ0t5XcArDmuAdShY78J70H5Rg937YG_iIwDCx__oVay5qpeiHXe-QdGw0lW2pjB4yg2dLCBQNGt2A)
