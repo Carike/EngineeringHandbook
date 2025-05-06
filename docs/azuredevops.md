@@ -26,3 +26,8 @@
   * [Simplifying Build Farms with Managed DevOps Pools for Azure DevOps](https://mattvsts.github.io/2024/09/11/managed-devops-pools/)
   * [Azure DevOps Managed DevOps pools](https://bjompen.com/#/posts/azdo.mdp?id=azure-devops-managed-devops-pools)
   * [Managed DevOps Pools: Simplifying Self-Hosted Azure Pipeline Agents](https://blog.almguru.com/managed-devops-pools-simplifying-self-hosted-azure-pipeline-agents-cd5f9c60640c)
+
+## Data in Grafana
+
+* [Azure DevOps Exporter (VSTS)](https://github.com/webdevops/azure-devops-exporter)
+* [Azure DevOps dashboard Gist](https://gist.github.com/samuel-begin/a67ca79c5d46baa94c57f360010172ee)

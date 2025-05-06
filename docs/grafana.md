@@ -15,3 +15,4 @@ Query, visualize, alert on, and understand your data no matter where it’s stor
   * [Home Assistant integration for Grafana Cloud](https://grafana.com/docs/grafana-cloud/monitor-infrastructure/integrations/integration-reference/integration-hass/)
 * [Grafana video channel](https://vimeo.com/user112284267)
 * [Intro to Kubernetes monitoring in Grafana Cloud](https://grafana.com/go/webinar/kubernetes-monitoring-with-grafana-cloud-emea/?src=email&cnt=webinar-invite&camp=kubernetes-monitoring-with-grafana-cloud-final-invite&mkt_tok=MzU2LVlGRy0zODkAAAGZZiP0DHkGW9obtHgCmUIkYsmfHEqwef-tHZ0t5XcArDmuAdShY78J70H5Rg937YG_iIwDCx__oVay5qpeiHXe-QdGw0lW2pjB4yg2dLCBQNGt2A)
+
