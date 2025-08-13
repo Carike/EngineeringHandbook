@@ -11,6 +11,23 @@
 
 ## Azure Pipelines
 
+### Microsoft Security DevOps
+
+New version to replace previous solution: [Azure Tenant Security Solution (AzTS)](https://github.com/azsk/AzTS-docs)
+
+- https://github.com/microsoft/security-devops-azdevops
+- https://marketplace.visualstudio.com/items?itemName=ms-securitydevops.microsoft-security-devops-azdevops
+- https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-devops-introduction
+
+Introduction and configure MS Security DevOps: [Configure the Microsoft Security DevOps Azure DevOps extension](https://learn.microsoft.com/en-us/azure/defender-for-cloud/azure-devops-extension)
+
+#### Links
+
+1. [Configure the Microsoft Security DevOps Azure DevOps extension](https://learn.microsoft.com/en-us/azure/defender-for-cloud/azure-devops-extension)
+1. https://www.checkov.io/1.Welcome/Quick%20Start.html
+   1. https://www.checkov.io/
+1. https://www.microsoft.com/en-us/securityengineering/devsecops   
+1. https://marketplace.visualstudio.com/items?itemName=azsdktm.AzSDK-task
 
 ## Azure Test Plans
 

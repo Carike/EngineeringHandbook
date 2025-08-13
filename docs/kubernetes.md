@@ -54,3 +54,17 @@ Note that this is a general overview of the steps involved in adding Azure AD au
 ## Monitoring
 
 * [Intro to Kubernetes monitoring in Grafana Cloud](https://grafana.com/go/webinar/kubernetes-monitoring-with-grafana-cloud-emea/?src=email&cnt=webinar-invite&camp=kubernetes-monitoring-with-grafana-cloud-final-invite&mkt_tok=MzU2LVlGRy0zODkAAAGZZiP0DHkGW9obtHgCmUIkYsmfHEqwef-tHZ0t5XcArDmuAdShY78J70H5Rg937YG_iIwDCx__oVay5qpeiHXe-QdGw0lW2pjB4yg2dLCBQNGt2A)
+
+## Images
+
+1. 1. Get current image versions running in cluster (add `-A` to get values for all namespaces)
+  ```kubectl get deployments -o wide```
+    1. https://medium.com/containers-101/three-ways-to-identify-which-images-are-running-in-a-kubernetes-cluster-6aca649072a8
+1. [Best practices for container image management and security in Azure Kubernetes Service (AKS)](https://learn.microsoft.com/en-us/azure/aks/operator-best-practices-container-image-management)
+1. [Eraser](https://eraser-dev.github.io/eraser/docs/architecture)
+
+## Plugins for IDEs
+
+1. [Customize Docker containers in Visual Studio](https://learn.microsoft.com/en-za/visualstudio/containers/container-build?view=vs-2022&WT.mc_id=visualstudio_containers_aka_containerfastmode)
+1. MS Learn module: [Use a Docker container as a development environment with Visual Studio Code](https://learn.microsoft.com/en-us/training/modules/use-docker-container-dev-env-vs-code/)
+1. [Containers learning paths](https://learn.microsoft.com/en-us/training/browse/?expanded=app-development%2Cinfrastructure&resource_type=learning%20path&subjects=containers)
