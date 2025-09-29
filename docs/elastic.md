@@ -32,8 +32,14 @@ Learning more about Elastic and the Elastic Stack.
     
 ## Learning Elastic
 
-* https://www.elastic.co/docs
-* https://www.elastic.co/getting-started/elasticsearch-relevance-engine-quick-start
-* [Continuous Integration and Continuous Delivery (CI/CD) monitoring](https://www.elastic.co/guide/en/observability/current/ci-cd-observability.html)
-* [Elastic Cloud Provider](https://registry.terraform.io/providers/elastic/ec/latest/docs) on Terraform Registry
-* [Demo](https://demo.elastic.co/)
+1. https://www.elastic.co/docs
+1. https://www.elastic.co/getting-started/elasticsearch-relevance-engine-quick-start
+1. [Continuous Integration and Continuous Delivery (CI/CD) monitoring](https://www.elastic.co/guide/en/observability/current/ci-cd-observability.html)
+1. [Elastic Cloud Provider](https://registry.terraform.io/providers/elastic/ec/latest/docs) on Terraform Registry
+1. [Demo](https://demo.elastic.co/)
+1. [Demo gallery](https://www.elastic.co/demo-gallery)
+  1. [Observability overview](https://www.elastic.co/demo-gallery/observability-overview)
+  1. [Observability logs](https://www.elastic.co/demo-gallery/observability-logs)
+1. [Getting started](https://www.elastic.co/getting-started)
+1. [Elastic Search Labs Tutorials](https://www.elastic.co/search-labs/tutorials)
+  1. [Search tutorial)](https://www.elastic.co/search-labs/tutorials/search-tutorial/welcome)
