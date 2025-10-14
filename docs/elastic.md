@@ -43,3 +43,4 @@ Learning more about Elastic and the Elastic Stack.
 1. [Getting started](https://www.elastic.co/getting-started)
 1. [Elastic Search Labs Tutorials](https://www.elastic.co/search-labs/tutorials)
   1. [Search tutorial)](https://www.elastic.co/search-labs/tutorials/search-tutorial/welcome)
+1. [Role mapping resource properties](https://www.elastic.co/docs/deploy-manage/users-roles/cluster-or-deployment-auth/role-mapping-resources#mapping-roles-rule-field) 

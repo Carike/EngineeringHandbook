@@ -59,3 +59,11 @@ Some certificate formats:
 
 ## Verify certificates
 Confirm certificate has been updated
+
+## Learning more
+
+1. [Using a Wildcard Certificate for Multiple Level Subdomains](https://www.ssldragon.com/blog/wildcard-certificate-multiple-level-subdomains/)
+1. [What is a Wildcard Certificate and How Does it Work?](https://www.ssldragon.com/blog/what-is-wildcard-certificate/)
+1. [SSL Basics](https://www.ssldragon.com/category/ssl-basics/)
+1. [Tutorials](https://www.ssldragon.com/how-to/) on SSL certificates
+  1. [OpenSSL Tutorials](https://www.ssldragon.com/how-to/openssl/) on SSL Dragon
