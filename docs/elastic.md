@@ -44,3 +44,7 @@ Learning more about Elastic and the Elastic Stack.
 1. [Elastic Search Labs Tutorials](https://www.elastic.co/search-labs/tutorials)
   1. [Search tutorial)](https://www.elastic.co/search-labs/tutorials/search-tutorial/welcome)
 1. [Role mapping resource properties](https://www.elastic.co/docs/deploy-manage/users-roles/cluster-or-deployment-auth/role-mapping-resources#mapping-roles-rule-field) 
+1. Ideas to investigate
+  1. [Group by function in Discover](https://discuss.elastic.co/t/group-by-function-in-discover/305922)
+  1. [View field statistics](https://www.elastic.co/docs/explore-analyze/discover/show-field-statistics)
+  1. [Using ES|QL](https://www.elastic.co/docs/explore-analyze/discover/try-esql)
