@@ -1,6 +1,8 @@
 # Certificate Management
 
 ## About
+A **SSL certificate** is a digital data form that identifies a company or individual.
+
 X.509 certificates are a key component of many deployment processes.
 
 Some certificate formats:
@@ -8,6 +10,10 @@ Some certificate formats:
 - **PKCS#12:** .pfx files. May include a private-key.
 - **PEM:** Base64-encoded ASN.1. Usually has .pem file extension (though sometimes .cer or .crt on Windows). May include a private-key.
 - **DER:** Binary-encoded ASN.1. Generally stored with file extensions .crt, .cer, or .der. Does not include private-key.
+
+### Obtain an SSL certificate and Key
+
+From an authorized certificate authority (CA), such as VeriSign, DigiCert. Also self-signed from certain devices
 
 ## Links
 * [Certificates 101](https://www.youtube.com/watch?v=nE-fBhqbUmg)
