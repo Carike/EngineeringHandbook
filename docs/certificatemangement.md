@@ -73,3 +73,10 @@ Confirm certificate has been updated
 1. [SSL Basics](https://www.ssldragon.com/category/ssl-basics/)
 1. [Tutorials](https://www.ssldragon.com/how-to/) on SSL certificates
   1. [OpenSSL Tutorials](https://www.ssldragon.com/how-to/openssl/) on SSL Dragon
+
+  ## Self-signed certificates
+
+  * [Generate an Azure Application Gateway self-signed certificate with a custom root CA](https://learn.microsoft.com/en-us/azure/application-gateway/self-signed-certificates)
+  * ```[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain``` could indicate corporate security measure blocking the connection 
+  * [Solving for Self-Signed Certificate Errors in Your Certificate Chain](https://www.keyfactor.com/blog/solving-for-self-signed-certificate-errors-in-your-certificate-chain/)
+  * [SSL Certificate Problem: Self-Signed Certificate in Certificate Chain – How to Resolve](https://www.cheapsslshop.com/blog/ssl-certificate-problem-self-signed-certificate-in-certificate-chain)

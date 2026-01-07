@@ -16,6 +16,53 @@ https://www.youtube.com/watch?v=48k317kOxqg
 
 ## FAQ
 
+### Unable to access internet
+
+Check if you are able to access the internet using WSL e.g. Ubuntu profile:
+```$ curl -v www.google.com```
+
+Three options to try
+
+#### Option 1
+
+If unable to connect, run the following script that prevents the resolv.conf from being auto-generated:
+```
+sudo rm /etc/resolv.conf
+sudo bash -c 'echo "nameserver 8.8.8.8" > /etc/resolv.conf'
+sudo bash -c 'echo "[network]" > /etc/wsl.conf'
+sudo bash -c 'echo "generateResolvConf = false" >> /etc/wsl.conf'
+sudo chattr +i /etc/resolv.conf
+```
+#### Option 2
+
+Turning Windows features on and off, when the name server is not “pingable”
+
+1. Type "Turn Windows features on or off" in windows prompt, open the app 
+1. Disable Linux subsystem in Windows features 
+1. Disable Hyper-v (all subcomponents) 
+1. Click "Ok" and follow to restart your machine
+1. Enable Linux subsystem in Windows features 
+1. Enable Hyper-v
+1. Click "Ok" and follow to restart
+
+#### Option 3
+
+1. Open Powershell or Cmd as Administrator and run each of these commands:
+   ```
+   wsl --shutdown
+   netsh winsock reset
+   netsh int ip reset all
+   netsh winhttp reset proxy
+   ipconfig /flushdns
+   ```
+1. Hit the Windows Key, type `Network Reset` and hit enter.
+1. Click "Reset now".
+1. Restart Windows
+
+If you're lucky, WSL 2 should now be able to `sudo apt-get update && sudo apt-get upgrade`.
+
+Also see [No network connection in any distribution under WSL 2](https://github.com/microsoft/WSL/issues/5336#issuecomment-653881695)
+
 ### Installing CA certificates
 
 !Verify whether these steps work
