@@ -14,6 +14,17 @@ https://www.youtube.com/watch?v=48k317kOxqg
   1. [Install WSL](https://docs.microsoft.com/en-us/windows/wsl/install)
   1. [Basic commands for WSL](https://docs.microsoft.com/en-us/windows/wsl/basic-commands)
 
+Ubuntu currently provides the 24.04.1 LTS release. When new LTS versions are released, Ubuntu can be upgraded once the first point release is available. This can be done from the command line by using:
+    `sudo do-release-upgrade`
+
+Installation tips:
+  - Search for "Turn Windows features on or off" in the Windows search bar and ensure that "Windows Subsystem for Linux" is turned on before restarting your machine.
+  - To launch, use "ubuntu" on the command-line prompt or Windows Terminal, or click on the Ubuntu tile in the Start Menu.
+
+For more information about Ubuntu WSL and how Canonical supports developers please visit:
+
+https://ubuntu.com/wsl
+
 ## FAQ
 
 ### Unable to access internet
