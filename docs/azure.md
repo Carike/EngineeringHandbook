@@ -26,3 +26,11 @@
 ## Links
 
 * [Products](https://azure.microsoft.com/en-us/products/)
+
+
+## Azure Container Registry (ACR)
+
+- [Authenticate with an Azure container registry](https://learn.microsoft.com/en-us/azure/container-registry/container-registry-authentication?tabs=azure-cli)
+- MS Learn module: [Deploy and use Azure Container Registry](https://learn.microsoft.com/en-us/training/modules/deploy-use-azure-container-registry/?source=recommendations)
+- https://azure.microsoft.com/en-us/products/container-registry
+- [View container registry repositories in the Azure portal](https://learn.microsoft.com/en-us/azure/container-registry/container-registry-repositories)
