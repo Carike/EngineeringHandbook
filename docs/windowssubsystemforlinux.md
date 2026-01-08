@@ -94,4 +94,3 @@ Also see [No network connection in any distribution under WSL 2](https://github.
 It's important to keep in mind that this process can be different depending on the distribution and the version that you are using in WSL, but it should be similar.
 
 Also you could keep in mind to use CA signed certificates. Custom self-signed ones can be not fully trusted.
-
