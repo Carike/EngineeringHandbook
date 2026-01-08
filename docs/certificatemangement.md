@@ -1,6 +1,8 @@
 # Certificate Management
 
 ## About
+A **SSL certificate** is a digital data form that identifies a company or individual.
+
 X.509 certificates are a key component of many deployment processes.
 
 Some certificate formats:
@@ -8,6 +10,10 @@ Some certificate formats:
 - **PKCS#12:** .pfx files. May include a private-key.
 - **PEM:** Base64-encoded ASN.1. Usually has .pem file extension (though sometimes .cer or .crt on Windows). May include a private-key.
 - **DER:** Binary-encoded ASN.1. Generally stored with file extensions .crt, .cer, or .der. Does not include private-key.
+
+### Obtain an SSL certificate and Key
+
+From an authorized certificate authority (CA), such as VeriSign, DigiCert. Also self-signed from certain devices
 
 ## Links
 * [Certificates 101](https://www.youtube.com/watch?v=nE-fBhqbUmg)
@@ -59,3 +65,18 @@ Some certificate formats:
 
 ## Verify certificates
 Confirm certificate has been updated
+
+## Learning more
+
+1. [Using a Wildcard Certificate for Multiple Level Subdomains](https://www.ssldragon.com/blog/wildcard-certificate-multiple-level-subdomains/)
+1. [What is a Wildcard Certificate and How Does it Work?](https://www.ssldragon.com/blog/what-is-wildcard-certificate/)
+1. [SSL Basics](https://www.ssldragon.com/category/ssl-basics/)
+1. [Tutorials](https://www.ssldragon.com/how-to/) on SSL certificates
+  1. [OpenSSL Tutorials](https://www.ssldragon.com/how-to/openssl/) on SSL Dragon
+
+  ## Self-signed certificates
+
+  * [Generate an Azure Application Gateway self-signed certificate with a custom root CA](https://learn.microsoft.com/en-us/azure/application-gateway/self-signed-certificates)
+  * ```[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain``` could indicate corporate security measure blocking the connection 
+  * [Solving for Self-Signed Certificate Errors in Your Certificate Chain](https://www.keyfactor.com/blog/solving-for-self-signed-certificate-errors-in-your-certificate-chain/)
+  * [SSL Certificate Problem: Self-Signed Certificate in Certificate Chain – How to Resolve](https://www.cheapsslshop.com/blog/ssl-certificate-problem-self-signed-certificate-in-certificate-chain)
